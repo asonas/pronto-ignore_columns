@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "pronto/ignore_columns"
+require "pronto/ignored_columns"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
